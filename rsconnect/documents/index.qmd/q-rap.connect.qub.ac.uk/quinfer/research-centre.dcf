@@ -5,9 +5,9 @@ account: quinfer
 server: q-rap.connect.qub.ac.uk
 hostUrl: https://q-rap.connect.qub.ac.uk/__api__
 appId: 19
-bundleId: 64
-url: https://q-rap.connect.qub.ac.uk/content/98a501ed-8fc6-42a7-9aa8-876e60af3b84/
-when: 1654764652.7379
-lastSyncTime: 1654764652.73791
+bundleId: 66
+url: https://q-rap.connect.qub.ac.uk/DBIL/
+when: 1654764900.89872
+lastSyncTime: 1654764900.89872
 asMultiple: FALSE
 asStatic: TRUE

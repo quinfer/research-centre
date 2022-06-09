@@ -106,6 +106,8 @@ graph TD
 -   Tony Klein (Senior Lecturer in Finance)
 -   Alan Hanna (Senior Lecturer in Finance)
 -   Paul Miller (Director of CSIT)
+-   Aine Gallagher (Lecturer in Finance and Banking)
+-   Declan Breslin (Professor of Practice in Financial Services)
 
 # Corporate Members
 
