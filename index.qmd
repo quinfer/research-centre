@@ -1,13 +1,16 @@
 ---
-title: "Digital Business Innovation Lab"
+title: "DBIL or DBI Lab"
+subtitle: "Digital Business Innovation Lab"
 author: "Barry Quinn"
-format: html
+format: 
+  html: 
+    theme: spacelab
 editor: visual
 ---
 
 # About
 
-DBIL is a interdisciplinary research centre based in Queen's Management School, bridging information technologies, innovation, and business insights. Our mission is to be a global center of excellence, unique located at the intersection of the major economies of the UK, the EU and the US
+DBIL is a proposed cross-disciplinary research centre based in Queen's Management School, bridging information technologies, data science, innovation, and business insights. Our mission is to be a global centre of excellence, uniquely located at the intersection of the major economies of the UK, the EU and the US.
 
 ## Rationale
 
@@ -87,9 +90,11 @@ graph TD
 ```
 
 -   Impactful research via co-production with industry partnerships (For example KTPs)
--   Annual research conference on the future of the Digital Economy
--   Funding opportunities with CSIT and the new QUB GIIs
--   SME development and digital mindset workshops
+-   Annual research conference entitled: **Digital Innovation and Disruption**
+-   Funding opportunities with CSIT and the Global Innovations Institutes in Queen's.
+-   SME development and digital mindset workshops.
+-   Actively engage in corporate sponsorship and collaboration funding projects.
+-   Industry sponsored research activities, including PhD sponsored opportunities.
 
 # Internal Members
 
@@ -108,3 +113,5 @@ graph TD
 -   Fund Axis Ltd
 -   Davy Wealth Managers
 -   Liberty IT
+-   CME Group (TBC)
+-   Citigroup
