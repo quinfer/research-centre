@@ -1,0 +1,110 @@
+---
+title: "Digital Business Innovation Lab"
+author: "Barry Quinn"
+format: html
+editor: visual
+---
+
+# About
+
+DBIL is a interdisciplinary research centre based in Queen's Management School, bridging information technologies, innovation, and business insights. Our mission is to be a global center of excellence, unique located at the intersection of the major economies of the UK, the EU and the US
+
+## Rationale
+
+Business has seen a rapid expansion in the use of algorithms which has coincided with the expansion of the outsourced technology solutions in highly regulated business sectors [^1].
+
+[^1]: For instances, the financial sector has faced a vast expansion in outsourcing, partly in response to the financial crisis. In the past twenty years, financial institutions increased their spend on compliance and oversight from 1-2% of revenues to around 5%. This led to a desire to reduce the financial impact, and hence a growth in outsourcing.
+
+The largest drivers of digitalisation in business outsourcing are:
+
+1.  Resilience focused regulations in US, EU & UK;
+2.  Cloud migration for business agility and ESG benefits;
+3.  Cyber security, risk and privacy;
+4.  AI and machine learning adoption.
+
+The trends in digitalised business was facilitated by the growth of hybrid cloud and advances in digital automation. The former requires secure connectivity and the latter intelligent application with risk controls. The current wave of outsourcing regulations is targeted towards operational resilience of the partnership between the outsourcer and the outsourced. This will necessitate an agile research ecosystem which provide synergistic intelligence across, computer science, risk analytics, business insight, and the rule of law. As such, there is a need for a global center of excellence to set standards, disperse best practice, examine competence, and ensure the industry is aligned to the objectives of lawmakers.
+
+# Why DBIL in Queen's University Belfast?
+
+-   Northern Ireland is recognised as a world-leading cyber security ecosystem underpinned by QUB's CSIT (Centre for Secure Intelligent Technology) -- the UK's largest cyber security-focused university technology partner.
+
+-   Collaborative tertiary education sector with ability to write bespoke training programmes and provide skills required (albeit lead time is required).
+
+-   Existing core tech capability to be enhanced via Belfast Region City Deals and planned digital twin centre in the overall 10X economic strategy in NI.
+
+-   Unique location gives access to UK and EU markets.
+
+Queen's Management School are uniquely positioned to establishing an emerging research centre for business intelligence and information technology, working in partnership with CSIT, to provide business and finanical insights for the digital economy.
+
+To be a global center of excellence in
+
+# Aims and activities
+
+We will provide thought leadership within the following multidisciplinary research ecosystem. The first diagram outlines the research expertise of the proposed DBIL centre, while the second diagram outlines how this could be potentially integrated into the proposed Global centre for Security and Intelligent Regulatory Technologies[^2]
+
+[^2]: GSIRT is a Northern Ireland proposition to the UK Comprehensive Spending Review to make Northern Ireland , and the rest of the UK, remains a global leader in regulatory technology (RegTech): capitalising on the economic opportunity regulatory innovation presents and leveraging existing business and research strengths. 
+
+    -   RegTech is a significant global economic opportunity for the UK. The global market is expected to grow by 300% to \$20bn between 2019 and 2025.  
+
+    ```{=html}
+    <!-- -->
+    ```
+    -   The UK -- with Northern Ireland as a hub -- has significant advantages which mean it is well placed to take advantage of this opportunity; the Kalifa Review recognised the unique global assets of the UK and that Northern Ireland has great potential to grow its already world-leading RegTech industry.  
+
+    -   But that will not happen without action to address specific market failures in the UK RegTech sector: our world-leading universities generate cutting-edge research and technology with immense economic potential; regulators are pursuing innovation opportunities centred on data and digital capabilities; but the commercialisation process and the RegTech market suffers from lack of concentration, scale, coordination, and asymmetries in information and incentives. 
+
+    -   GSIRT responds to this need by building upon proven, existing business models and approaches, such as those of the Centre for Secure Information Technologies (CSIT) and of Catalyst Northern Ireland. It has been designed in dialogue with leading thinkers in UK regulatory policy, as well as from Silicon Valley and around the world in order to be at the cutting edge of global practice. 
+
+    -   The preferred approach would deliver a global cluster based upon the development of a linked dual campus in Belfast and Derry/Londonderry. 
+
+```{mermaid}
+graph TD
+  subgraph Proposed Digital Business Innovation Lab
+    A[(DBIL)]-->|Digital Business Innovation Lab| C(Thought Leadership)
+    C -->|in| D[AI and Tail Risk Analytics]
+    C -->|in| E[AI Ethics in Business]
+    C -->|in| F[Systemic Risk and Machine Intelligence]
+    C -->|in| G[Business Analytics]
+    C -->|in| H[Economics of AI] ==> L[Econometrics of AI]
+    C -->|in| I[Digital Mindsets and SMEs]
+  end
+```
+
+```{mermaid}
+graph TD
+ subgraph DBIL within the GSIRT ecoystem
+    A[(GSIRT)]-->|Global centre for Security and Intelligent Regulatory Technologies | C(Impactful Research)
+    C -->|CSIT + Management School + Criminology| D[Security & Assurance in FinancE]
+    C -->|Management School| E[DBIL]
+    E -->|in| F[AI and Tail Risk Analytics]
+    E -->|in| G[Digital Mindset and SMEs]
+    E -->|in| H[Economics of AI] --> L[Econometrics of AI]
+    D --> |in| I(Trade Surveillance)
+    D --> |in| J(Trustworthy AI)
+    D --> |in| K(Systemic Risk and AI)
+    F & L & I & J --> M[eXplainable AI]
+  end
+```
+
+-   Impactful research via co-production with industry partnerships (For example KTPs)
+-   Annual research conference on the future of the Digital Economy
+-   Funding opportunities with CSIT and the new QUB GIIs
+-   SME development and digital mindset workshops
+
+# Internal Members
+
+-   Barry Quinn CStat (Senior Lecturer of FinTech and Data Science)
+-   Julie McCandless (Professor of Practice in Management)
+-   Min Zhang (Professor of Operations Management)
+-   Byron Graham (Senior Lecturer of Business Analytics)
+-   Fearghal Kearney (Senior Lecturer of Finance)
+-   Tony Klein (Senior Lecturer in Finance)
+-   Alan Hanna (Senior Lecturer in Finance)
+-   Paul Miller (Director of CSIT)
+
+# Corporate Members
+
+-   FinTech Corridor
+-   Fund Axis Ltd
+-   Davy Wealth Managers
+-   Liberty IT
