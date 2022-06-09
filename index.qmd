@@ -112,6 +112,7 @@ graph TD
 -   FinTech Corridor
 -   Fund Axis Ltd
 -   Davy Wealth Managers
--   Liberty IT
+-   Liberty IT (TBC)
 -   CME Group (TBC)
 -   Citigroup
+-   FinTru
