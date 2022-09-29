@@ -1,120 +1,176 @@
 ---
-title: "DBIL or DBI Lab"
-subtitle: "Digital Business Innovation Lab"
-author: "Barry Quinn"
+title: '**F**inancial technology and **A**nalytics la**B**'
+subtitle: "DRAFT"
+author: 
+    - Barry Quinn 
+    - Fearghal Kearney
 format: 
   html: 
-    theme: spacelab
+    theme: sandstone
+    toc: true
 editor: visual
 ---
 
 # About
 
-DBIL is a proposed cross-disciplinary research centre based in Queen's Management School, bridging information technologies, data science, innovation, and business insights. Our mission is to be a global centre of excellence, uniquely located at the intersection of the major economies of the UK, the EU and the US.
+The *Financial technology and Analytics laB* (hereafter FAB) is a cross-disciplinary research institute based at Queen's Management School. The lab will be industry-focused and aims to provide thought leadership for Northern Ireland's vibrant financial technology ecosystem[^1].
+
+[^1]: An overview of this ecosystem can be found here: <https://fintechnorthernireland.com/fintech-ecosystem/>
+
+## Mission
+
+The mission is to bridge gaps between information technologies, data science, innovation, and financial decision-making. Our goal is to be a global lab of excellence, uniquely located at the gateway between the US, the UK, and the EU.
+
+To achieve this mission the lab has the following strategic goals:
+
+1.  Nuclei industry clusters for disruptive thought leadership in the areas of FinTech;
+2.  Strengthen and develop linkages with Queen's Centre for Secure Information Technologies and the Global Innovation Institute.
+3.  Be a world leader in regulatory technology research[^2].
+4.  Actively co-produce academic output with industry partners.
+5.  Foster international partnerships with other research labs in financial technology and data science.
+6.  Up-skill and re-skill the workforce using research-led postgraduate qualifications.
+
+[^2]: Regulatory technology (RegTech) is the use of information technology to enhance regulatory and compliance processes. Since 2015, it has been identified as a strategic priority for the UK financial services sector (<https://www.gov.uk/government/publications/fintech-blackett-review>).
 
 ## Rationale
 
-Business has seen a rapid expansion in the use of algorithms which has coincided with the expansion of the outsourced technology solutions in highly regulated business sectors [^1].
+The financial services industry has witnessed a rapid expansion in the use of algorithms which has coincided with the expansion of the technology solutions in highly regulated business sectors [^3].
 
-[^1]: For instances, the financial sector has faced a vast expansion in outsourcing, partly in response to the financial crisis. In the past twenty years, financial institutions increased their spend on compliance and oversight from 1-2% of revenues to around 5%. This led to a desire to reduce the financial impact, and hence a growth in outsourcing.
+[^3]: For instances, the financial sector has faced a vast expansion in outsourcing, partly in response to the financial crisis. In the past twenty years, financial institutions increased their spend on compliance and oversight from 1-2% of revenues to around 5%. This led to a desire to reduce the financial impact, and hence a growth in outsourcing.
 
-The largest drivers of digitalisation in business outsourcing are:
+The largest drivers of digitalisation in business are:
 
-1.  Resilience focused regulations in US, EU & UK;
+1.  Resilience-focused regulations in US, EU & UK;
 2.  Cloud migration for business agility and ESG benefits;
 3.  Cyber security, risk and privacy;
 4.  AI and machine learning adoption.
 
-The trends in digitalised business was facilitated by the growth of hybrid cloud and advances in digital automation. The former requires secure connectivity and the latter intelligent application with risk controls. The current wave of outsourcing regulations is targeted towards operational resilience of the partnership between the outsourcer and the outsourced. This will necessitate an agile research ecosystem which provide synergistic intelligence across, computer science, risk analytics, business insight, and the rule of law. As such, there is a need for a global center of excellence to set standards, disperse best practice, examine competence, and ensure the industry is aligned to the objectives of lawmakers.
+The trends in digitising finance were facilitated by the growth of hybrid cloud and advances in digital automation. The former requires secure connectivity and the latter intelligent application with risk controls. The current wave of outsourcing regulations is targeted toward the operational resilience of the partnership between the technology providers and adopting financial institution.
 
-# Why DBIL in Queen's University Belfast?
+These trends will necessitate an agile research ecosystem which provides synergistic intelligence across, computer science, risk analytics, and the rule of law. As such, there is a need for a global centre of excellence to set standards, disperse best practices, examine competence, and ensure the industry is aligned to the objectives of lawmakers.
 
--   Northern Ireland is recognised as a world-leading cyber security ecosystem underpinned by QUB's CSIT (Centre for Secure Intelligent Technology) -- the UK's largest cyber security-focused university technology partner.
+# Why FAB in Queen's University Belfast?
 
--   Collaborative tertiary education sector with ability to write bespoke training programmes and provide skills required (albeit lead time is required).
+-   Northern Ireland is recognised as a world-leading cyber security ecosystem underpinned by QUB's CSIT (Centre for Secure Intelligent Technology) -- the UK's largest cybersecurity-focused university technology partner.
 
--   Existing core tech capability to be enhanced via Belfast Region City Deals and planned digital twin centre in the overall 10X economic strategy in NI.
+-   Collaborative tertiary education sector with the ability to write bespoke training programmes and provide skills required (albeit lead time is required).
 
--   Unique location gives access to UK and EU markets.
+-   Existing core tech capability to be enhanced via Belfast Region City Deals and the overall 10X economic strategy in NI.
 
-Queen's Management School are uniquely positioned to establishing an emerging research centre for business intelligence and information technology, working in partnership with CSIT, to provide business and finanical insights for the digital economy.
+-   The unique location gives access to UK and EU markets.
 
-To be a global center of excellence in
+Queen's Management School are uniquely positioned to establish an emerging research lab for financial technology, working in partnership with CSIT, to provide business and financial insights for the digital economy.
 
-# Aims and activities
+# Strategic Aims
 
-We will provide thought leadership within the following multidisciplinary research ecosystem. The first diagram outlines the research expertise of the proposed DBIL centre, while the second diagram outlines how this could be potentially integrated into the proposed Global centre for Security and Intelligent Regulatory Technologies[^2]
-
-[^2]: GSIRT is a Northern Ireland proposition to the UK Comprehensive Spending Review to make Northern Ireland , and the rest of the UK, remains a global leader in regulatory technology (RegTech): capitalising on the economic opportunity regulatory innovation presents and leveraging existing business and research strengths. 
-
-    -   RegTech is a significant global economic opportunity for the UK. The global market is expected to grow by 300% to \$20bn between 2019 and 2025.  
-
-    ```{=html}
-    <!-- -->
-    ```
-    -   The UK -- with Northern Ireland as a hub -- has significant advantages which mean it is well placed to take advantage of this opportunity; the Kalifa Review recognised the unique global assets of the UK and that Northern Ireland has great potential to grow its already world-leading RegTech industry.  
-
-    -   But that will not happen without action to address specific market failures in the UK RegTech sector: our world-leading universities generate cutting-edge research and technology with immense economic potential; regulators are pursuing innovation opportunities centred on data and digital capabilities; but the commercialisation process and the RegTech market suffers from lack of concentration, scale, coordination, and asymmetries in information and incentives. 
-
-    -   GSIRT responds to this need by building upon proven, existing business models and approaches, such as those of the Centre for Secure Information Technologies (CSIT) and of Catalyst Northern Ireland. It has been designed in dialogue with leading thinkers in UK regulatory policy, as well as from Silicon Valley and around the world in order to be at the cutting edge of global practice. 
-
-    -   The preferred approach would deliver a global cluster based upon the development of a linked dual campus in Belfast and Derry/Londonderry. 
+We will provide thought leadership within the following multidisciplinary research ecosystem. The first diagram outlines the research expertise of the FAB.
 
 ```{mermaid}
-graph TD
-  subgraph Proposed Digital Business Innovation Lab
-    A[(DBIL)]-->|Digital Business Innovation Lab| C(Thought Leadership)
-    C -->|in| D[AI and Tail Risk Analytics]
-    C -->|in| E[AI Ethics in Business]
-    C -->|in| F[Systemic Risk and Machine Intelligence]
+graph LR
+  subgraph Proposed Fintech lAB
+    A[(FAB)]--> C(Thought Leadership)
+    C-->|in| N[Text as Data]
+    C -->|in| P[Financial Machine Learning]
+    C -->|in| S[Regulatory Technology] --> D[AI and VaR Analytics] & E[AI Ethics in Business] & F[Systemic Risk and AI] & R[ESG *Fair Value* Analytics]
     C -->|in| G[Business Analytics]
-    C -->|in| H[Economics of AI] ==> L[Econometrics of AI]
-    C -->|in| I[Digital Mindsets and SMEs]
+    C -->|in| H[Economics of AI] --> Q[Economics of Hybrid Cloud] & L[Causal Inference and XAI]
   end
 ```
+
+A key strategic goal for FAB is to enhance and develop multidisciplinary research through strong links with with [CSIT](http://www.csit.qub.ac.uk). Going forward, the lab is well positioned to feed into the plans by the Belfast City Deal to build a global innovation institute in secure connected intelligence at Queen's. The following diagram highlights expertise linkages (regulatory technology expertise is highlighted in orange):
 
 ```{mermaid}
-graph TD
- subgraph DBIL within the GSIRT ecoystem
-    A[(GSIRT)]-->|Global centre for Security and Intelligent Regulatory Technologies | C(Impactful Research)
-    C -->|CSIT + Management School + Criminology| D[Security & Assurance in FinancE]
-    C -->|Management School| E[DBIL]
-    E -->|in| F[AI and Tail Risk Analytics]
-    E -->|in| G[Digital Mindset and SMEs]
+graph LR
+ subgraph FAB within the GII ecosystem
+    A[(GIIs)]--> C(Impactful Research)
+    C -->|CSIT + FAB + Criminology| D[Security & Assurance in FinancE]
+    C -->|Management School| E[FAB]
+    E -->|in| F[AI and Tail Risk Analytics]:::reg
+    E -->|in| X[Economics of Hybrid Cloud]:::reg
+    
+    D:::reg & C -->|in| N[Text as Data]:::reg
+    D -->|in| P[Financial Machine Learning]
     E -->|in| H[Economics of AI] --> L[Econometrics of AI]
-    D --> |in| I(Trade Surveillance)
-    D --> |in| J(Trustworthy AI)
-    D --> |in| K(Systemic Risk and AI)
-    F & L & I & J --> M[eXplainable AI]
+    D --> |in| I(Trade Surveillance):::reg
+    D --> |in| J(Trustworthy AI):::reg
+    D --> |in| K(Systemic Risk and AI):::reg
+    F & L & I & J --> M[eXplainable AI]:::reg
+    classDef reg fill:#f96;
   end
 ```
 
--   Impactful research via co-production with industry partnerships (For example KTPs)
--   Annual research conference entitled: **Digital Innovation and Disruption**
--   Funding opportunities with CSIT and the Global Innovations Institutes in Queen's.
--   SME development and digital mindset workshops.
+## Activities
+
+-   Flagship projects to nuclei industry clusters in digital disruptive thought leadership
+    1.  UK productivity gap and FinTech NI.
+
+    2.  Regulatory technologies and financial inclusion.
+-   Funding opportunities with CSIT from the new Global Innovations Institutes route.
 -   Actively engage in corporate sponsorship and collaboration funding projects.
--   Industry sponsored research activities, including PhD sponsored opportunities.
+    -   Possibilities for sponsorship for access to expertise, workshops, and lab-affiliated graduates.
+-   Industry-sponsored research activities, including PhD-sponsored opportunities and **AI for Good** projects.
+-   Establishing a sandbox program to cultivate future-ready graduates by transforming our courses into real-world *sandboxes*, bringing together students, academics, and the industry to co-create solutions for contemporary problems[^4].
+-   Fellowship will be awarded to graduate students who complete sandbox projects and who are working on research at the bleeding edge of research.
+-   In collaboration with [EEECS](https://www.qub.ac.uk/schools/eeecs/), The lab will launch a PG certificate in financial technology and machine learning in 2023, designed specifically to up-skill and re-skill talent for the local fintech industry.
 
-# Internal Members
+[^4]: A good example of this type of approach can be found here \<https://www.unsw.edu.au/business/our-schools/information-systems-technology-management/student-life/sandbox-education-program\>
 
--   Barry Quinn CStat (Senior Lecturer of FinTech and Data Science)
--   Julie McCandless (Professor of Practice in Management)
--   Min Zhang (Professor of Operations Management)
--   Byron Graham (Senior Lecturer of Business Analytics)
--   Fearghal Kearney (Senior Lecturer of Finance)
--   Tony Klein (Senior Lecturer in Finance)
--   Alan Hanna (Senior Lecturer in Finance)
--   Paul Miller (Director of CSIT)
--   Aine Gallagher (Lecturer in Finance and Banking)
--   Declan Breslin (Professor of Practice in Financial Services)
+# Funding strategy
 
-# Corporate Members
+FAB aims to be self-sustaining in the long run with some initial start-up funding from the School. The proposed funding strategy will be multifaceted, partnering with national research centres such as the [Hartree centre](https://www.hartree.stfc.ac.uk/Pages/Partners.aspx) and strategic industry partnerships, and deepening collaborative opportunities with CSIT and ECIT.
 
--   FinTech Corridor
--   Fund Axis Ltd
--   Davy Wealth Managers
--   Liberty IT (TBC)
--   CME Group (TBC)
--   Citigroup
--   FinTru
+# International partnerships possibles
+
+To establish a global presence, the lab will seek out partnerships with other academic research labs with similar expertise. For example
+
+-   [Belmont University Data Collaborative](https://www.belmont.edu/data/index.html)
+-   [Cork University Business School](https://fintechnext.ie)
+
+# Steering Group
+
+-   Gareth Campbell (Professor of Finance)
+-   Fearghal Kearney (Senior Lecturer in Finance)
+-   Julie McCandless (Professor of Practice, Director of Business Engagement)
+-   Barry Quinn (Senior Lecturer of FinTech and Data Science)
+-   Declan Breslin (Honorary Professor of Practice in Financial Services)
+-   Clare Guinness (Innovation Director, Belfast City Deal)
+-   Paul Miller (Reader of AI and Cyber Security, Deputy Director of CSIT)
+-   Philip Hamill (Professor of Finance, Associate Provost for Research and Academic Department, Abu Dhabi University)
+
+# Other Members
+
+| Name               | Title                                 | Expertise                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|---------------|---------------|------------------------------------------|
+| Dr Laura Steele    | Senior Lecturer of Management         | Laura Steele is a Senior Lecturer (Education) in Business and Society at Queen's Management School, where she also serves as the Director of Ethics, Responsibility, and Sustainability. As part of this role, she is extensively involved in promoting and advancing the UN-supported [Principles for Responsible Management Education](https://www.unprme.org/ "PRME") (PRME), as well as the [UN Sustainable Development Goals](https://sdgs.un.org/goals) (SDGs).                                                                                                                                                                                                                                                                                                                                                                       |
+| Dr Alan Hanna      | Senior Lecturer in Finance            | Alan Hanna is a senior lecturer of education with a strong industry background in financial technology in Northern Ireland. After graduating from Queen's with a pure maths PhD, Alan was an early innovator in the technology and financial markets space, management the capital markets and technology team in Citigroup Belfast for over 8 years. Alan's research expertise including, mathematical finance, financial machine learning, and natural language process for finance.                                                                                                                                                                                                                                                                                                                                                      |
+| Dr Aidan McGowan   | Senior Lecturer in Computer Science   | Aidan is a senior lecturer of education in the School of Electronics, Electrical Engineering and Computer Science. He has designed and developed a number of strategically important post graduate master's programmes for the fintech industry. He is current partnering with Dr Barry Quinn to develop an asynchronous portfolio of multidisciplinary fintech courses for Queen's.                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Dr Tony Klein      | Senior Lecturer in Finance            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Dr Mark Farrell    | Senior Lecturer of Actuarial Science  | Mark is a qualified Actuary (FIA), Mark is a Fellow of the Institute & Faculty of Actuaries with more than 20 years of global experience working in the actuarial profession. Mark's research interests include [InsurTech](https://proactuary.com/wearables-in-insurance-where-do-we-go-from-here/) and its implications for the actuary profession.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Dr Clive Walker    | Lecturer in Finance                   | Clive is an expert in sentiment analysis, text as data, and natural language processing. His research expertise includes understand the long run dynamics of sentiment in the financial markets, and has published extensively in this area.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Joseph Harrigan    | Professor of Practice in Finance      | Joseph is an investment director with a decade's direct fund management experience, making key investment decisions for equity and multi-asset funds. He has international experience at the highest level including managing a team during the launch of an fintech start up in investment management. He has gained relevant fintech experience in all six key managerial oversight functions in compliance within EU AIFMD Directive. Previously obtained experience of EU Regulation from the regulator's perspective, in the course of advising the EC Commissioner at the time, Mario Monti, on a significant complex industrial merger. He currently is a Professor of Practice at Queens University Belfast and a team leader in a knowledge transfer program bringing environmental, social and governance knowledge to investors. |
+| Dr Byron Graham    | Senior Lecturer of Business Analytics | Byron's research interests focus on using data to gain actionable insights for business and the public sector. From a technical perspective this spans the areas of data science and big data analytics -- including the application of machine learning and other statistical models, natural language processing, and advanced data visualisation. This is combined with a focus on the practical applications of these technologies in business and other contexts; thus combining technical interests with research interests in innovation and management.                                                                                                                                                                                                                                                                             |
+| Aine Gallagher     | Lecturer in Finance                   | Áine is a Chartered Financial Analyst (CFA), with several years of professional experience in Banking and Investment Management in the UK and Australia. Her research examines the role of women as investors and active participants in corporate governance, and the development of historical equity markets. Áine teaches various courses at undergraduate, post-graduate and executive education levels including behavioural finance, equity research and financial statement analysis.                                                                                                                                                                                                                                                                                                                                               |
+| Karl Matikonis     | Lecturer in Business Analytics        | Karl is Lecturer in Business Analytics at QMS, currently concentrating on his ESRC-funded project "Impact of Technologies on Productivity and People of Northern Ireland". In his PhD and subsequent research, he applied bespoke analytical solutions with cutting-edge econometrics combined with machine learning to some of the most extensive UK financial datasets. In addition to that, he has experience in assisting, advising and leading projects with an analytical focus in the Civil Service.                                                                                                                                                                                                                                                                                                                                 |
+| Dr William Quinn   | Senior Lecturer in Finance            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Jiadong Liu        | Lecturer in Finance                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Qiao (Olivia) Peng | Lecturer in Business Analytics        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Lisa Sheenan       | Lecturer in Finance                   | Financial crises, contagion and spillovers, systemic risk, structural break models                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+: School members and their expertise
+
+# Industry affiliates
+
+-   [FinTech Corridor](https://thefintechcorridor.com/) (Partner)
+-   [Fund Axis Ltd](https://funds-axis.com/) (KTP partner)
+-   [Davy Wealth Managers](https://www.davy.ie/)
+-   [Research Affiliate](https://www.researchaffiliates.com/about-us/press/research-affiliates-expands-european-footprint-as-head-of-equity-research-moves-to-the-firms-london-office)s (KTP partner)
+
+# Student Fellows
+
+-   Colm Kelly (Machine Learning Researcher, FundAxis Ltd; PhD candidate in financial machine learning and asset pricing, submitting Sept 22)
+
+-   Abhishek Pramanick (PhD Candidate in regulatory technology and financial inclusion, incoming Sept 22)
+
+-   Fei Li (PhD Candidate in XAI and ESG \`fair value' pricing, incoming Sept 22)
+
+-   Veronica Zhang (PhD Candidate in Regulatory Implications in the development of the Chinese banking sector (submitting July 2023)

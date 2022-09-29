@@ -1,0 +1,13 @@
+name: fintech-lab
+title: fintech-lab
+username: quinfer
+account: quinfer
+server: q-rap.connect.qub.ac.uk
+hostUrl: https://q-rap.connect.qub.ac.uk/__api__
+appId: 22
+bundleId: 144
+url: https://q-rap.connect.qub.ac.uk/FAB/
+when: 1664362796.63503
+lastSyncTime: 1664362796.63504
+asMultiple: FALSE
+asStatic: TRUE
